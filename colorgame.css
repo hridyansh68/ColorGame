@@ -1,0 +1,63 @@
+body{
+	background-color: black;
+	margin: 0;
+}
+#topsec{
+	background-color: #00ccff;
+
+}
+h1{ 
+	text-align: center;
+	margin: 0;
+}
+h1{
+	text-align: center;
+	margin: 0;
+}
+#buttonsec{
+	background-color: white;
+	margin-right: 0;
+	text-align: center;
+	height: 50px;
+}
+#colorsec{
+
+	max-width: 600px;
+	margin: 0 auto;
+
+	
+}
+#easyButton{
+	margin-left: 100px;
+
+}
+#displayText{
+	width: 200px;
+	height: 40px;
+	margin-bottom: 3px;
+	margin-top: 3px;
+	font-size: 35px;
+
+}
+
+.squares{
+	width: 30%;
+	margin: 1.66%;
+	background-color: black;
+	padding-bottom: 30%;
+	float: left;
+	border-radius: 15%;
+	transition: background 1.0s;
+}
+
+.selected{
+	background: red;
+}
+
+button{
+	height: 40px;
+	margin-bottom: 3px;
+	margin-top: 3px;
+	font-size: 35px;
+	
+}
